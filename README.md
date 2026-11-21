@@ -1,11 +1,11 @@
 <div align="center">
 
-# GTI HQ
+# GTI
 
 **Infrastructure, tooling and experiments. All in one place.**
 
-[![Org](https://img.shields.io/badge/org-gtihq-2f81f7?style=for-the-badge&logo=github)](https://github.com/gtihq)
-[![Repositories](https://img.shields.io/badge/repositories-gtihq-2ea44f?style=for-the-badge&logo=github)](https://github.com/orgs/gtihq/repositories)
+[![Org](https://img.shields.io/badge/org-GTI-2f81f7?style=for-the-badge&logo=github)](https://github.com/gtihq)
+[![Repositories](https://img.shields.io/badge/repositories-GTI-2ea44f?style=for-the-badge&logo=github)](https://github.com/orgs/gtihq/repositories)
 [![Infrastructure](https://img.shields.io/badge/infrastructure-gti--infra-6f42c1?style=for-the-badge&logo=terraform)](https://github.com/gtihq/gti-infra)
 [![Status](https://img.shields.io/badge/status-active-2ea44f?style=for-the-badge)](https://github.com/gtihq)
 
@@ -15,9 +15,9 @@
 
 ## About
 
-**GTI HQ** is a GitHub organization for the infrastructure, automation and internal tooling
-that keeps the GTI homelab running. It is the single source of truth for infrastructure code,
-deployment pipelines and the small utilities built around them.
+**GTI** is a technology holding. This GitHub organization hosts the infrastructure,
+automation and internal tooling that keeps the homelab running. It is the single source of
+truth for infrastructure code, deployment pipelines and the small utilities built around them.
 
 Everything here follows one rule: **Git is the source of truth, automation does the rest.**
 
@@ -60,6 +60,6 @@ Everything here follows one rule: **Git is the source of truth, automation does 
 
 Maintained with care by **callmeteus**.
 
-[Back to top](#gti-hq)
+[Back to top](#gti)
 
 </div>
